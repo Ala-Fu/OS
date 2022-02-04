@@ -1,3 +1,3 @@
-# OS
+# Operating System Homework
 
-## Code about process, thread and signal.
+## Process, thread and signal
